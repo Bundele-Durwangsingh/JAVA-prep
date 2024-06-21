@@ -1,0 +1,84 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Calculator",
+      "request": "launch",
+      "mainClass": "Calculator",
+      "projectName": "Java prep_6467cfd7"
+    },
+    {
+      "type": "java",
+      "name": "Calculator",
+      "request": "launch",
+      "mainClass": "Calculator",
+      "projectName": "Java test project_e975d35"
+    },
+    {
+      "type": "java",
+      "name": "PalindromNumber",
+      "request": "launch",
+      "mainClass": "PalindromNumber",
+      "projectName": "Java test project_e975d35"
+    },
+    {
+      "type": "java",
+      "name": "ReverseNumber",
+      "request": "launch",
+      "mainClass": "ReverseNumber",
+      "projectName": "Java test project_e975d35"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "Java test project_e975d35"
+    },
+    {
+      "type": "java",
+      "name": "Condition",
+      "request": "launch",
+      "mainClass": "Condition",
+      "projectName": "Java test project_e975d35"
+    },
+    {
+      "type": "java",
+      "name": "Fibonacci",
+      "request": "launch",
+      "mainClass": "Fibonacci",
+      "projectName": "Java test project_e975d35"
+    },
+    {
+      "type": "java",
+      "name": "LargestNumber",
+      "request": "launch",
+      "mainClass": "LargestNumber",
+      "projectName": "Java test project_e975d35"
+    },
+    {
+      "type": "java",
+      "name": "Loops",
+      "request": "launch",
+      "mainClass": "Loops",
+      "projectName": "Java test project_e975d35"
+    },
+    {
+      "type": "java",
+      "name": "PrimativeDatatype",
+      "request": "launch",
+      "mainClass": "PrimativeDatatype",
+      "projectName": "Java test project_e975d35"
+    }
+  ]
+}
