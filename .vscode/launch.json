@@ -6,6 +6,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "IntegerSwap",
+      "request": "launch",
+      "mainClass": "IntegerSwap",
+      "projectName": "Java prep_6467cfd7"
+    },
+    {
+      "type": "java",
+      "name": "FunctionWithParameter",
+      "request": "launch",
+      "mainClass": "FunctionWithParameter",
+      "projectName": "Java prep_6467cfd7"
+    },
+    {
+      "type": "java",
+      "name": "FunctionWithReturn",
+      "request": "launch",
+      "mainClass": "FunctionWithReturn",
+      "projectName": "Java prep_6467cfd7"
+    },
+    {
+      "type": "java",
+      "name": "Function",
+      "request": "launch",
+      "mainClass": "Function",
+      "projectName": "Java prep_6467cfd7"
+    },
+    {
+      "type": "java",
+      "name": "SwitchCase",
+      "request": "launch",
+      "mainClass": "SwitchCase",
+      "projectName": "Java prep_6467cfd7"
+    },
+    {
+      "type": "java",
       "name": "Calculator",
       "request": "launch",
       "mainClass": "Calculator",
