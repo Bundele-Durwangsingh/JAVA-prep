@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MinimumNumber",
+      "request": "launch",
+      "mainClass": "MinimumNumber",
+      "projectName": "Java prep_6467cfd7"
+    },
+    {
+      "type": "java",
+      "name": "LinearSearch",
+      "request": "launch",
+      "mainClass": "LinearSearch",
+      "projectName": "Java prep_6467cfd7"
+    },
+    {
+      "type": "java",
+      "name": "MultidimensionArray",
+      "request": "launch",
+      "mainClass": "MultidimensionArray",
+      "projectName": "Java prep_6467cfd7"
+    },
+    {
+      "type": "java",
       "name": "PassinginArray",
       "request": "launch",
       "mainClass": "PassinginArray",
