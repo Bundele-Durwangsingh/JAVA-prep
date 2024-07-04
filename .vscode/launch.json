@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "test",
+      "request": "launch",
+      "mainClass": "test",
+      "projectName": "Java prep_6467cfd7"
+    },
+    {
+      "type": "java",
+      "name": "StarPattern",
+      "request": "launch",
+      "mainClass": "StarPattern",
+      "projectName": "Java prep_6467cfd7"
+    },
+    {
+      "type": "java",
+      "name": "start",
+      "request": "launch",
+      "mainClass": "start",
+      "projectName": "Java prep_6467cfd7"
+    },
+    {
+      "type": "java",
       "name": "MinimumNumber",
       "request": "launch",
       "mainClass": "MinimumNumber",
