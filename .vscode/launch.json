@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "AdvancePattern",
+      "request": "launch",
+      "mainClass": "AdvancePattern",
+      "projectName": "Java prep_6467cfd7"
+    },
+    {
+      "type": "java",
       "name": "test",
       "request": "launch",
       "mainClass": "test",
