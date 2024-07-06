@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Circumference",
+      "request": "launch",
+      "mainClass": "Circumference",
+      "projectName": "Java prep_6467cfd7"
+    },
+    {
+      "type": "java",
+      "name": "SumOfOddNumber",
+      "request": "launch",
+      "mainClass": "SumOfOddNumber",
+      "projectName": "Java prep_6467cfd7"
+    },
+    {
+      "type": "java",
+      "name": "AverageOfNumber",
+      "request": "launch",
+      "mainClass": "AverageOfNumber",
+      "projectName": "Java prep_6467cfd7"
+    },
+    {
+      "type": "java",
       "name": "AdvancePattern",
       "request": "launch",
       "mainClass": "AdvancePattern",
