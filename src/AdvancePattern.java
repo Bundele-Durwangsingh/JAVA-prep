@@ -47,11 +47,11 @@ public class AdvancePattern {
     }
 
     // This is a solid rhombus
-    // *****
-    // *****
-    // *****
-    // *****
-    // *****
+    //      *****
+    //     *****
+    //    *****
+    //   *****
+    //  *****
     static void SolidRhombus() {
         System.out.println("This is a solid rhombus");
         int n = 5;
@@ -68,10 +68,10 @@ public class AdvancePattern {
     }
 
     // This is a number pyramid
-    // 1
-    // 2 2
-    // 3 3 3
-    // 4 4 4 4
+    //     1
+    //    2 2
+    //   3 3 3
+    //  4 4 4 4
     // 5 5 5 5 5
     static void NumberPyramid() {
         System.out.println("This is a number pyramid");
@@ -89,10 +89,10 @@ public class AdvancePattern {
     }
 
     // This is a palindrome pyramid
-    // 1
-    // 212
-    // 32123
-    // 4321234
+    //     1
+    //    212
+    //   32123
+    //  4321234
     // 543212345
     static void PalindromePyramid() {
         System.out.println("This is a palindrome pyramid");
@@ -113,16 +113,16 @@ public class AdvancePattern {
     }
 
     // This is a diamond pattern
-    // *
-    // ***
-    // *****
-    // *******
+    //     *
+    //    ***
+    //   *****
+    //  *******
     // *********
     // *********
-    // *******
-    // *****
-    // ***
-    // *
+    //  *******
+    //   *****
+    //    ***
+    //     *
     static void Diamond() {
         System.out.println("This is a diamond pattern");
         int n = 5;
