@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PrimativeDatatype",
+      "request": "launch",
+      "mainClass": "Fundamentals.PrimativeDatatype",
+      "projectName": "Java prep_6467cfd7"
+    },
+    {
+      "type": "java",
       "name": "Circumference",
       "request": "launch",
       "mainClass": "Circumference",
