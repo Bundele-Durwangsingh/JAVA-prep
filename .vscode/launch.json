@@ -6,6 +6,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TransposeOfMatrix",
+      "request": "launch",
+      "mainClass": "DSA.Array.TransposeOfMatrix",
+      "projectName": "Java prep_b4600c4b"
+    },
+    {
+      "type": "java",
+      "name": "SearchIn2dArray",
+      "request": "launch",
+      "mainClass": "DSA.Array.SearchIn2dArray",
+      "projectName": "Java prep_b4600c4b"
+    },
+    {
+      "type": "java",
+      "name": "MinimumNumber",
+      "request": "launch",
+      "mainClass": "DSA.Array.MinimumNumber",
+      "projectName": "Java prep_6467cfd7"
+    },
+    {
+      "type": "java",
+      "name": "Array",
+      "request": "launch",
+      "mainClass": "DSA.Array.Array",
+      "projectName": "Java prep_6467cfd7"
+    },
+    {
+      "type": "java",
+      "name": "ArrayInputOutput",
+      "request": "launch",
+      "mainClass": "DSA.Array.ArrayInputOutput",
+      "projectName": "Java prep_6467cfd7"
+    },
+    {
+      "type": "java",
       "name": "PrimativeDatatype",
       "request": "launch",
       "mainClass": "Fundamentals.PrimativeDatatype",
