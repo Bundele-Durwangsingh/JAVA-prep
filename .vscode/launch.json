@@ -6,6 +6,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PlaindromString",
+      "request": "launch",
+      "mainClass": "DSA.String.PlaindromString",
+      "projectName": "Java prep_b4600c4b"
+    },
+    {
+      "type": "java",
+      "name": "ReverseString",
+      "request": "launch",
+      "mainClass": "DSA.String.ReverseString",
+      "projectName": "Java prep_b4600c4b"
+    },
+    {
+      "type": "java",
+      "name": "Strings",
+      "request": "launch",
+      "mainClass": "DSA.String.Strings",
+      "projectName": "Java prep_b4600c4b"
+    },
+    {
+      "type": "java",
+      "name": "TwoSum",
+      "request": "launch",
+      "mainClass": "DSA.LeetCode.TwoSum",
+      "projectName": "Java prep_b4600c4b"
+    },
+    {
+      "type": "java",
       "name": "TransposeOfMatrix",
       "request": "launch",
       "mainClass": "DSA.Array.TransposeOfMatrix",
