@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ContainsDuplicate",
+      "request": "launch",
+      "mainClass": "DSA.LeetCode.ContainsDuplicate",
+      "projectName": "Java prep_b4600c4b"
+    },
+    {
+      "type": "java",
       "name": "BestTimetoBuyandSellStock",
       "request": "launch",
       "mainClass": "DSA.LeetCode.BestTimetoBuyandSellStock",
