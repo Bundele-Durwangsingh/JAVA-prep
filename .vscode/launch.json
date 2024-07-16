@@ -6,6 +6,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FindMinimuminRotatedSortedArray",
+      "request": "launch",
+      "mainClass": "DSA.LeetCode.FindMinimuminRotatedSortedArray",
+      "projectName": "Java prep_b4600c4b"
+    },
+    {
+      "type": "java",
+      "name": "InsertionSort",
+      "request": "launch",
+      "mainClass": "DSA.Sorting.InsertionSort",
+      "projectName": "Java prep_b4600c4b"
+    },
+    {
+      "type": "java",
+      "name": "SelectionSort",
+      "request": "launch",
+      "mainClass": "DSA.Sorting.SelectionSort",
+      "projectName": "Java prep_b4600c4b"
+    },
+    {
+      "type": "java",
+      "name": "BubbleSort",
+      "request": "launch",
+      "mainClass": "DSA.Sorting.BubbleSort",
+      "projectName": "Java prep_b4600c4b"
+    },
+    {
+      "type": "java",
       "name": "MaximumSubarray",
       "request": "launch",
       "mainClass": "DSA.LeetCode.MaximumSubarray",
