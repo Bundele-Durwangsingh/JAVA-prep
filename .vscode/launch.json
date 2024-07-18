@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MaximumProductSubarray",
+      "request": "launch",
+      "mainClass": "DSA.LeetCode.MaximumProductSubarray",
+      "projectName": "Java prep_b4600c4b"
+    },
+    {
+      "type": "java",
       "name": "SearchinRotatedSortedArray",
       "request": "launch",
       "mainClass": "DSA.LeetCode.SearchinRotatedSortedArray",
