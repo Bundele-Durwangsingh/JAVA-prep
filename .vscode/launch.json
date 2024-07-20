@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ContainerWithMostWater",
+      "request": "launch",
+      "mainClass": "DSA.LeetCode.ContainerWithMostWater",
+      "projectName": "Java prep_b4600c4b"
+    },
+    {
+      "type": "java",
       "name": "ThreeSum",
       "request": "launch",
       "mainClass": "DSA.LeetCode.ThreeSum",
