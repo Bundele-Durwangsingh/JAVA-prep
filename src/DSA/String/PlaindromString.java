@@ -12,7 +12,7 @@ public class PlaindromString {
             char ch = OriginalString.charAt(i);
             temp = ch + temp;
         }
-        if (OriginalString.equalsIgnoreCase(OriginalString)) {
+        if (OriginalString.equalsIgnoreCase(temp)) {
             System.out.println("Stirng is palindrom");
         } else {
             System.out.println("Stirng is not palindrom");
