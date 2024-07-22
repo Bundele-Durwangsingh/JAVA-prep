@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "QuickSort",
+      "request": "launch",
+      "mainClass": "DSA.Sorting.QuickSort",
+      "projectName": "Java prep_b4600c4b"
+    },
+    {
+      "type": "java",
       "name": "ValidAnagram",
       "request": "launch",
       "mainClass": "DSA.LeetCode.String.ValidAnagram",
