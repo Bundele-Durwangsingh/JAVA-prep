@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MergeSort",
+      "request": "launch",
+      "mainClass": "DSA.Sorting.MergeSort",
+      "projectName": "Java prep_b4600c4b"
+    },
+    {
+      "type": "java",
       "name": "ValidPalindrome",
       "request": "launch",
       "mainClass": "DSA.LeetCode.String.ValidPalindrome",
