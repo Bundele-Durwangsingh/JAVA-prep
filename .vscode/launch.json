@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LinkedListCycle",
+      "request": "launch",
+      "mainClass": "DSA.LeetCode.LinkedList.LinkedListCycle",
+      "projectName": "Java prep_b4600c4b"
+    },
+    {
+      "type": "java",
       "name": "MergeTwoSortedLists",
       "request": "launch",
       "mainClass": "DSA.LeetCode.LinkedList.MergeTwoSortedLists",

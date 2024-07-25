@@ -14,22 +14,18 @@ public class ReverseLinkedList {
      */
     public static void main(String[] args) {
         // Create a sample linked list with values [1, 2, 3, 4, 5]
-        ListNode head = new ListNode(1);
-        head.next = new ListNode(2);
-        head.next.next = new ListNode(3);
-        head.next.next.next = new ListNode(4);
-        head.next.next.next.next = new ListNode(5);
+        ListNode head = ListNode.createLinkedList(new int[]{1, 2, 3, 4, 5});
 
         // Print the original linked list
         System.out.print("Original List: ");
-        printList(head);
+        ListNode.printList(head);
 
         // Reverse the linked list using the reverseList function
         ListNode reversedHead = reverseList(head);
 
         // Print the reversed linked list
         System.out.print("Reversed List: ");
-        printList(reversedHead);
+        ListNode.printList(reversedHead);
     }
 
     // Function to reverse the linked list
@@ -43,23 +39,5 @@ public class ReverseLinkedList {
             curr = next; // Move curr one step forward
         }
         return prev; // The prev pointer will be the new head after reversal
-    }
-
-    // Function to print the linked list
-    public static void printList(ListNode head) {
-        while (head != null) {
-            System.out.print(head.val + " -> "); // Print current node value
-            head = head.next; // Move to the next node
-        }
-        System.out.println("NULL"); // End of list
-    }
-
-    // Definition for singly-linked list.
-    public static class ListNode {
-        int val;
-        ListNode next;
-        ListNode(int val) {
-            this.val = val;
-        }
     }
 }
