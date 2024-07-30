@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LinkedListCollectiveFramework",
+      "request": "launch",
+      "mainClass": "DSA.LinkedList.LinkedListCollectiveFramework",
+      "projectName": "Java prep_b4600c4b"
+    },
+    {
+      "type": "java",
       "name": "LinkedlistDelete",
       "request": "launch",
       "mainClass": "DSA.LinkedList.LinkedlistDelete",
