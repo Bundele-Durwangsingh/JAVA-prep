@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "StackUsingColectiveFramework",
+      "request": "launch",
+      "mainClass": "DSA.Stack.StackUsingColectiveFramework",
+      "projectName": "Java prep_b4600c4b"
+    },
+    {
+      "type": "java",
+      "name": "StackUsingArrayList",
+      "request": "launch",
+      "mainClass": "DSA.Stack.StackUsingArrayList",
+      "projectName": "Java prep_b4600c4b"
+    },
+    {
+      "type": "java",
+      "name": "StackUsingLinkedList",
+      "request": "launch",
+      "mainClass": "DSA.Stack.StackUsingLinkedList",
+      "projectName": "Java prep_b4600c4b"
+    },
+    {
+      "type": "java",
       "name": "MergeKSortedLists",
       "request": "launch",
       "mainClass": "DSA.LeetCode.LinkedList.MergeKSortedLists",
