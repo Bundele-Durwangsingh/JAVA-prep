@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PushAtBottomOfStack",
+      "request": "launch",
+      "mainClass": "DSA.Stack.PushAtBottomOfStack",
+      "projectName": "Java prep_b4600c4b"
+    },
+    {
+      "type": "java",
+      "name": "ReverseAStack",
+      "request": "launch",
+      "mainClass": "DSA.Stack.ReverseAStack",
+      "projectName": "Java prep_b4600c4b"
+    },
+    {
+      "type": "java",
       "name": "StackUsingColectiveFramework",
       "request": "launch",
       "mainClass": "DSA.Stack.StackUsingColectiveFramework",
