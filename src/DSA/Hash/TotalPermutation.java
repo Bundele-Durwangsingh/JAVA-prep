@@ -1,17 +1,22 @@
 package DSA.Hash;
 
+import java.util.HashMap;
+import java.util.Map;
 import java.util.Scanner;
 
 public class TotalPermutation {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         String string = input.nextLine();
-        int[] freq = new int[26]; // Assuming only lowercase letters
         int n = string.length();
+
+        // Using HashMap to store frequencies of characters
+        Map<Character, Integer> freqMap = new HashMap<>();
 
         // Counting frequency of each character
         for (int i = 0; i < n; i++) {
-            freq[string.charAt(i) - 'a']++;
+            char c = string.charAt(i);
+            freqMap.put(c, freqMap.getOrDefault(c, 0) + 1);
         }
 
         // Precompute factorials up to n
@@ -23,9 +28,9 @@ public class TotalPermutation {
 
         // Calculate total permutations
         int permutation = factorials[n];
-        for (int f : freq) {
-            if (f > 1) {
-                permutation /= factorials[f];
+        for (int freq : freqMap.values()) {
+            if (freq > 1) {
+                permutation /= factorials[freq];
             }
         }
 
