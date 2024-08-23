@@ -1,4 +1,4 @@
-package DSA;
+package DSA.Search;
 import java.util.Scanner;
 
 public class LinearSearch {
