@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Calculator",
+      "request": "launch",
+      "mainClass": "Fundamentals.Methods.Calculator",
+      "projectName": "Java prep_b4600c4b"
+    },
+    {
+      "type": "java",
+      "name": "Methods",
+      "request": "launch",
+      "mainClass": "Fundamentals.Methods.Methods",
+      "projectName": "Java prep_b4600c4b"
+    },
+    {
+      "type": "java",
       "name": "Peak",
       "request": "launch",
       "mainClass": "DSA.Hash.Peak",
