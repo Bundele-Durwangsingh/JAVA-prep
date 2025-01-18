@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "Java Notes_d5c13843"
+    },
+    {
+      "type": "java",
       "name": "StudentData",
       "request": "launch",
       "mainClass": "Fundamentals.Methods.StudentData",
