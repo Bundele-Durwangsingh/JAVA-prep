@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Variable",
+      "request": "launch",
+      "mainClass": "Variable.Variable",
+      "projectName": "Java Notes_d5c13843"
+    },
+    {
+      "type": "java",
+      "name": "Datatypes",
+      "request": "launch",
+      "mainClass": "Datatype.Datatypes",
+      "projectName": "Java Notes_d5c13843"
+    },
+    {
+      "type": "java",
+      "name": "Datatypes",
+      "request": "launch",
+      "mainClass": "Datatypes",
+      "projectName": "Java Notes_d5c13843"
+    },
+    {
+      "type": "java",
       "name": "App",
       "request": "launch",
       "mainClass": "App",
