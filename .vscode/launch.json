@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PersonDetails",
+      "request": "launch",
+      "mainClass": "Variable.PersonDetails",
+      "projectName": "Java Notes_d5c13843"
+    },
+    {
+      "type": "java",
+      "name": "SwapVariable",
+      "request": "launch",
+      "mainClass": "Variable.SwapVariable",
+      "projectName": "Java Notes_d5c13843"
+    },
+    {
+      "type": "java",
       "name": "Variable",
       "request": "launch",
       "mainClass": "Variable.Variable",
