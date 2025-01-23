@@ -116,5 +116,31 @@ Casing refers to the way words are capitalized in identifiers to improve readabi
 - **Methods and Variables**: Use **Camel Case** (e.g., `calculateSum`).
 - **Constants**: Use **Snake Case** in uppercase (e.g., `MAX_VALUE`).
 
+### Printing statements in Java
+- **`System.out.print`**: 
+  - Outputs the text to the console **without appending a newline**.
+  - The cursor stays on the same line after printing.
+  - Example:
+    ```java
+    System.out.print("Hello");
+    System.out.print("World");
+    ```
+    **Output**: `HelloWorld`
+
+- **`System.out.println`**: 
+  - Outputs the text to the console **and appends a newline**.
+  - The cursor moves to the next line after printing.
+  - Example:
+    ```java
+    System.out.println("Hello");
+    System.out.println("World");
+    ```
+    **Output**: 
+    ```
+    Hello
+    World
+    ```
+
+
 ---
 
